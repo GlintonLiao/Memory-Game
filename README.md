@@ -16,7 +16,7 @@ to start the game.
 
 ## More About This Game
 
-click a card, it will filp around and stay for a while. Try to memorize it and match to the same card with the same picture.
+Click a card, it will filp around and stay for a while. Try to memorize it and match to the same card with the same picture.
 
 Enjoy the game!
 
